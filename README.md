@@ -1,3 +1,3 @@
 # sdmcet-cpp-training
 20 hours worth training conducted from 20th till 24th Jan 2023.
->>Feel free to refer or edit the programs.
+>>Feel free to refer or copy the programs.
