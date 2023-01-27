@@ -1,30 +1,30 @@
 >>DAY-1
 
-OOP's with C++
---------------
+OOP's with C++<br />
+--------------<br />
 
-POP -- procedure oriented programming
-OOP -- object oriented programming 
+POP -- procedure oriented programming<br />
+OOP -- object oriented programming <br />
 
-OOP -- data will be epicenter of focus(section)--then procedure(section).
-POP -- we should/will focus on procedure
+OOP -- data will be epicenter of focus(section)--then procedure(section).<br />
+POP -- we should/will focus on procedure<br />
 
-OOP -- polymorphism & inheritance is present
-POP -- polymorphism & inheritance is absent
+OOP -- polymorphism & inheritance is present<br />
+POP -- polymorphism & inheritance is absent<br />
 
-C++ supports re-usablility		[achieves abstraction but not as much Java]
-C doesn't...
+C++ supports re-usablility		[achieves abstraction but not as much Java]<br />
+C doesn't...<br />
+<br />
 
+/* RGY's story */<br />
+Summary:<br />
+C was lacking in it's performance!! C++ was born!<br />
 
-/* RGY's story */
-Summary:
-C was lacking in it's performance!! C++ was born!
+C with classes == C++<br />
 
-C with classes == C++
+internet was created as a bi-product of JAVA!!<br />
 
-internet was created as a bi-product of JAVA!!
-
-C compiler cannot compile C++ codes whereas C++ compiler can do so for C codes.
+C compiler cannot compile C++ codes whereas C++ compiler can do so for C codes.<br />
 
 
 //////////////////////////////////////////<br />
@@ -33,26 +33,26 @@ for c++::		&nbsp;	for c::<br />
 #include < iostream >	&nbsp;	#include<stdio.h><br />
 //////////////////////////////////////////<br />
 
-CLASS & OBJECTS
-CONSTRUCTORS & DESTRUCTORS
-MEMBER FUNCTIONS			[functions are also known METHODS]
-DATA MEMBER
-NON MEMBER DATA
-NON MEMBER FUNCTION
-FRIEND FUNC.(S)
-OPERATOR OVERLOADING
-FUNCTION OVERLOADING
-GENERIC FUNC.(S)
-GENERIC CLASSES
+CLASS & OBJECTS<br />
+CONSTRUCTORS & DESTRUCTORS<br />
+MEMBER FUNCTIONS			[functions are also known METHODS]<br />
+DATA MEMBER<br />
+NON MEMBER DATA<br />
+NON MEMBER FUNCTION<br />
+FRIEND FUNC.(S)<br />
+OPERATOR OVERLOADING<br />
+FUNCTION OVERLOADING<br />
+GENERIC FUNC.(S)<br />
+GENERIC CLASSES<br />
 
-polymorphism -----a) static b) dynamic
+polymorphism -----a) static b) dynamic<br />
 
-C++ allows to have more than one function to have same name that either differs in the number of parameters or in the types of parameters.
-Signature of a fn. --no. of parameters, types of parameters and name of function(s).
-function overloading -- BLA-BLA!
-Candidate functions & Viable functions
+C++ allows to have more than one function to have same name that either differs in the number of parameters or in the types of parameters.<br />
+Signature of a fn. --no. of parameters, types of parameters and name of function(s).<br />
+function overloading -- BLA-BLA!<br />
+Candidate functions & Viable functions<br />
 
-Structures of C are Classes in C++ but has wide features.
+Structures of C are Classes in C++ but has wide features.<br />
 
 >>DAY-2
 
@@ -67,33 +67,34 @@ function instantiation
 
 >>DAY-3
 
-dynamic memory allocation -- new
-------------------ii----- is always allocated in heap mem.
+dynamic memory allocation -- new<br />
+------------------ii----- is always allocated in heap mem.<br />
 
-pointer always holds addresses -- so 4 bytes(**always)
+pointer always holds addresses -- so 4 bytes(**always)<br />
 
-de-allocation of dynamically allocated mem -- delete
+de-allocation of dynamically allocated mem -- delete<br />
 
-constructors & destructors
-friend functions
+constructors & destructors<br />
+friend functions<br />
 
-getters nd setters
+getters and setters<br />
 
-inheritance: superclass/baseclass
-		childclass/subclass
+inheritance: superclass/baseclass<br />
+		childclass/subclass<br />
 
-Virtual functions
+Virtual functions<br />
 
 >>DAY-4
 
-Virtual functions
+Virtual functions<br />
 
-function overloading v/s overriding
+function overloading v/s overriding<br />
 
-[this->] signature differs..
+[this->] signature differs..<br />
 
 >>DAY-5
 
-opperator;
-fn overriding
-dynamic polymorphism
+opperator;<br />
+fn overriding<br />
+dynamic polymorphism<br />
+---------------THE END---------------
