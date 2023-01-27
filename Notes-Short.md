@@ -28,9 +28,9 @@ C compiler cannot compile C++ codes whereas C++ compiler can do so for C codes.
 
 
 //////////////////////////////////////////<br />
-for c++::		for c::<br />
+for c++::		&nbsp;	for c::<br />
 <br />
-#include<iostream>	#include<stdio.h><br />
+#include<iostream>	&nbsp;	#include<stdio.h><br />
 //////////////////////////////////////////<br />
 
 CLASS & OBJECTS
