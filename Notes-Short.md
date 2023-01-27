@@ -27,11 +27,11 @@ internet was created as a bi-product of JAVA!!
 C compiler cannot compile C++ codes whereas C++ compiler can do so for C codes.
 
 
-//////////////////////////////////////////
-for c++::		for c::
-
-#include<iostream>	#include<stdio.h>
-//////////////////////////////////////////
+//////////////////////////////////////////<br />
+for c++::		for c::<br />
+<br />
+#include<iostream>	#include<stdio.h><br />
+//////////////////////////////////////////<br />
 
 CLASS & OBJECTS
 CONSTRUCTORS & DESTRUCTORS
